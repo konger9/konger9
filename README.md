@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**konger9/konger9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hola, soy Nel 👋</h1>
 
-Here are some ideas to get you started:
+<p>
+  Bienvenido a mi GitHub! <br>
+  Soy un apasionado por la programación y la informática.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://x.com/konger_9"><img src="https://img.shields.io/badge/X-000000?flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/nelson-salas-pino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,git,vscode,firebase&theme=dark" alt="Python, Django, SQL, Git, VS Code, Firebase" />
+
+</div>
