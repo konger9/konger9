@@ -16,6 +16,6 @@
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,django,postman,postgres,git,vscode,firebase,astro,qt&theme=dark" alt="Python, HTML, CSS, Django, Postman, SQL, Git, VS Code, Firebase, Astro, Qt" />
+<img src="https://skillicons.dev/icons?i=python,html,css,tailwind,django,postman,postgres,git,vscode,firebase,astro,qt&theme=dark" alt="Python, HTML, CSS, Tailwind, Django, Postman, SQL, Git, VS Code, Firebase, Astro, Qt" />
 
 </div>
